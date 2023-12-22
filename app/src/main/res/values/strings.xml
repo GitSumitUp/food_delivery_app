@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zomato</string>
+    <string name="food_order">Food Order</string>
+    <string name="price">price</string>
+    <string name="order_now">Order Now</string>
+    <string name="s">$</string>
+    <string name="priceDetail">price</string>
+    <string name="phone">Phone</string>
+    <string name="your_name">Your Name</string>
+    <string name="experience_the_mouthwatering_burger_king_fresh_veggies_melted_cheese_and_creamy_sauce">Experience the mouthwatering Burger King - Fresh veggies, melted cheese and creamy sauce!</string>
+    <string name="_1">1</string>
+</resources>
